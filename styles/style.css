@@ -1,0 +1,43 @@
+.flex-container {
+    padding: 10px;
+    border: 1px solid black;
+    background-color: green;
+    width: 50%;
+    display: flex; /* Inicia un contenedor con la propiedad Flex */
+    flex-direction: row; /* Indica el orden de los elementos del contenedor */
+    flex-wrap: wrap; /* Tiene en cuenta el ancho del contenedor para mostrar los elementos */
+
+    }
+
+.bloque1{
+background-color: orange;
+border: 1px solid black;
+width: 25%;
+height: 50px;
+}
+
+.bloque2{
+    background-color: orange;
+    border: 1px solid #000;
+    width: 25%;
+    height: 50px;
+
+}
+.bloque3{
+    background-color: orange;
+    border: 1px solid #000;
+    width: 25%;
+    height: 50px;
+}
+.bloque4{
+    background-color: orange;
+    border: 1px solid #000;
+    width: 25%;
+    height: 50px;
+}
+.bloque5{
+    background-color: orange;
+    border: 1px solid #000;
+    width: 25%;
+    height: 50px;
+}
